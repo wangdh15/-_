@@ -1,0 +1,7 @@
+lamda = 15
+
+feature_size = 3
+
+time_use = 14 seconds
+
+the numbers of iteration = 75
